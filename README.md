@@ -317,7 +317,7 @@ Likely the endpoint is trying to return too many rows or the DB query is stuck.
 
 - Add logging in the endpoint around DB query and timing.
 
-## 10) video 
+## 10) video link
 
 
 
